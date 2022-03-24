@@ -1,5 +1,5 @@
 - 👋 Hi, we are @MetaStellar NFT Collections
-- 
+- ⛵ OpenSea: https://opensea.io/collection/meta-stellar
 - 📫 More info: https://meta-stellar.io/
 - 🔗 Discord: https://discord.gg/CZNVUf2wmd 
 
